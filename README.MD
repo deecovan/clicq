@@ -1,4 +1,5 @@
-# CLICQ / CLI Command and Query application
-## Vision
-## Requirements
-## Design
+# CLICQ 
+## CLI Command and Query application
+### Vision
+### Requirements
+### Design
